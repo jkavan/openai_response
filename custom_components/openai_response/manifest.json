@@ -1,11 +1,10 @@
 {
-    "domain": "openai_response",
-    "name": "OpenAI Response",
-    "documentation": "https://github.com/Hassassistant/openai_response",
-    "dependencies": [],
-    "codeowners": ["@hassassistant"],
-    "requirements": ["openai==0.27.0"],
-    "extra_quality_scale": "platinum",
-    "version": "0.1.0"
+  "domain": "openai_response",
+  "name": "OpenAI Response",
+  "documentation": "https://github.com/jkavan/openai_response",
+  "dependencies": [],
+  "codeowners": ["@jkavan"],
+  "requirements": ["openai==0.27.0"],
+  "extra_quality_scale": "platinum",
+  "version": "0.1.0"
 }
-
